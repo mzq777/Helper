@@ -7,7 +7,7 @@ using System.IO;
 using System.Net;
 using System.Web.Services.Description;
 
-namespace UploadElectronicMedicalRecord.Utils
+namespace Utils
 {
     public class WebServiceHelper
     {
